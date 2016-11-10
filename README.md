@@ -75,7 +75,7 @@
 
 ## 1.3.1. 资源链接
 
-* 哈工大社会计算与信息检索研究中心同义词词林扩展版(http://www.datatang.com/data/42306/)
+* 哈工大社会计算与信息检索研究中心同义词词林扩展版(http://www.ltp-cloud.com/download/)
 
 ## 1.4. 否定词
 
@@ -84,4 +84,6 @@
 
 # 2. 参考文献
 
-[1] [基于词典的中文情感倾向分析算法设计](https://site.douban.com/146782/widget/notes/15462869/note/355625387/)
+1. [基于词典的中文情感倾向分析算法设计](https://site.douban.com/146782/widget/notes/15462869/note/355625387/)
+2. B. Pang, L. Lee, "[Opinion mining and sentiment analysis.](http://www.cs.cornell.edu/home/llee/opinion-mining-sentiment-analysis-survey.html)"
+3. Bing Liu, "[Sentiment analysis and subjectivity](https://www.cs.uic.edu/~liub/FBS/NLP-handbook-sentiment-analysis.pdf)"
